@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MobileProduct</string>
+    <string name="Proudt_Name1">Iphone 12 64GB</string>
+    <string name="Proudt_Price1">4500 SR</string>
+    <string name="Proudt_VIP1">yes</string>
+    <string name="quantityNumber1">5</string>
+
+    <string name="Proudt_Name2">Samsung Galaxy S21 Ultra</string>
+    <string name="Proudt_Price2">4500 SR</string>
+    <string name="Proudt_VIP2">No</string>
+    <string name="quantityNumber2">5</string>
+
+    <string name="Proudt_Name3">Xiaomi 11T Pro</string>
+    <string name="Proudt_Price3">2000 SR</string>
+    <string name="Proudt_VIP3">yes</string>
+    <string name="quantityNumber3">0</string>
+
+    <string name="Proudt_Name4">Huawei Y6p</string>
+    <string name="Proudt_Price4">5000 SR</string>
+    <string name="Proudt_VIP4">No</string>
+    <string name="quantityNumber4">0</string>
+
+    <string name="Proudt_Name5">Samsung Galaxy Z Flip3</string>
+    <string name="Proudt_Price5">5000 SR</string>
+    <string name="Proudt_VIP5">No</string>
+    <string name="quantityNumber5">70</string>
+
+    <string name="Proudt_Name6">Iphone 13</string>
+    <string name="Proudt_Price6">6000 SR</string>
+    <string name="Proudt_VIP6">Yes</string>
+    <string name="quantityNumber6">36</string>
+    <string name="buy">BUY</string>
+    <string name="textview">TextView</string>
+</resources>
